@@ -1,0 +1,23 @@
+{
+  "name": "btc-v53-demo",
+  "version": "1.0.0-demo.2",
+  "prepared_on": "2026-10-04",
+  "execution_environment": "OKX demo only",
+  "real_money_start_enabled": false,
+  "account_end_to_end_acceptance": "not_run",
+  "strategy": "frozen v53",
+  "initial_capital_usdt": 30,
+  "isolated_leverage": 15,
+  "demo_e2e": "not_run",
+  "archive_validation": {
+    "offline_tests": 270,
+    "result": "passed",
+    "python": "3.12.14",
+    "platform": "macOS",
+    "source_extracted_from_zip": true,
+    "github_ci_run": false,
+    "server_modified": false
+  },
+  "default_armed": false,
+  "account_files_included": false
+}
